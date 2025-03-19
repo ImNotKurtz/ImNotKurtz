@@ -6,6 +6,16 @@
 * Busco colaborar em projetos inovadores e desafiadores.
 * Pergunte-me sobre ***Python***, ***Node.js***, e ***JavaScript***.
 
+
+#### Main Stack:
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=react"/>](https://react.dev/)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=ts"/>](https://developer.mozilla.org/en-US/docs/Glossary/TypeScript)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=js"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=nextjs"/>](https://nextjs.org/docs)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=nodejs"/>](https://nodejs.org/en)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=jest"/>](https://developer.mozilla.org/en-US/blog/test-javascript-with-jest-on-vultr/)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=redux"/>](https://redux.js.org/introduction/getting-started)
+
 #### Other languages and tools I know:
 
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=bootstrap"/>](https://getbootstrap.com/docs/4.0/getting-started/introduction/)
