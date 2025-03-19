@@ -41,23 +41,3 @@
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=babel"/>](https://babeljs.io/docs/)
   
 
-<br/><br/>
-
-### Terminal 
-
-[![Windows](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)](https://github.com/kurtzthereal/KurtzTheReal/edit/main/README.md)
-[![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://github.com/kurtzthereal/KurtzTheReal/edit/main/README.md)
-
-### Web Browsers
-
-[![Brave](https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white)](https://github.com/kurtzthereal/KurtzTheReal/edit/main/README.md)
-[![TOR](https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)](https://github.com/kurtzthereal/KurtzTheReal/edit/main/README.md)
-
-
-
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/zThiagoR/zThiagoR/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
-###
