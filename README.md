@@ -3,7 +3,7 @@
   <img width="100%" height="350px" src="https://i.imgur.com/amavxL3.gif">
   <br/><br/>
 </p>
-<h1 align="center">I'm Walter Berchez</h1>
+<h1 align="center">I'm Kurtz</h1>
 
 
 ## Language and Tools
