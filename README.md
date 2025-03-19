@@ -1,11 +1,9 @@
-## Olá! Bem-vindo ao meu perfil no GitHub! 👋
-
-***Sobre mim***
-
-* Sempre aprendendo e me aperfeiçoando nas melhores práticas de desenvolvimento.
-* Busco colaborar em projetos inovadores e desafiadores.
-* Pergunte-me sobre ***Python***, ***Node.js***, e ***JavaScript***.
-
+<p align="center">
+  <br><br>
+  <img width="100%" height="350px" src="https://i.imgur.com/amavxL3.gif">
+  <br/><br/>
+</p>
+<h1 align="center">I'm Walter Berchez</h1>
 
 
 ## Language and Tools
